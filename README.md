@@ -9,8 +9,6 @@
 The wallpapers are based on the original Doodle (now Mural) live wallpaper collection of the Google Pixel 4 and the leaked (but never officially released) Material You static wallpaper collection of the Pixel 6, extended with additional wallpapers from Chrome OS.
 The app is not just a copy of the original wallpapers, it's a complete rewrite without the permanent animations to save battery and storage space. In addition, there are many customization options to match your preferences.
 
-> 🙏 **Attribution:** Mural is a GPL-3 redistribution of the fantastic [Doodle Android](https://github.com/patzly/doodle-android) project by Patrick Zedler (@patzly).
-
 ## 📱 Screenshots
 
 <p align="center">
@@ -75,7 +73,7 @@ Or [become a supporter on Buy Me a Coffee](https://buymeacoffee.com/awaisdev572)
 
 ## 📄 License
 
-Copyright © 2019-2025 Patrick Zedler. All rights reserved.
+Copyright © 2026 awaisdev5765. All rights reserved.
 
 [GNU General Public License version 3](https://www.gnu.org/licenses/gpl.txt)
 
